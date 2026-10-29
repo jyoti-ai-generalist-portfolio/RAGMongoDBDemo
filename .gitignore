@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+__pycache__/
+venv/
+.venv/
+
+# Environment variables / Secrets
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data files
+*.pdf
